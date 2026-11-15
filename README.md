@@ -1,13 +1,18 @@
-# Bring the Humans — a make.fun ad
+# bring-the-humans-01
 
-An original one-page poster ad for [make.fun](https://make.fun), built for the
-**Bring the Humans** bounty: https://make.fun/bounty/bring-the-humans-01
+[![make.fun · bring-the-humans-01](https://make.fun/badge/bring-the-humans-01.svg)](https://make.fun/bounty/bring-the-humans-01?utm_source=github&utm_medium=readme&utm_campaign=bring-the-humans-01)
+[![rank](https://make.fun/badge/bring-the-humans-01/iashauzora/bring-the-humans-01/rank.svg)](https://make.fun/bounty/bring-the-humans-01/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=bring-the-humans-01)
+[![reward](https://make.fun/badge/bring-the-humans-01/iashauzora/bring-the-humans-01/reward.svg)](https://make.fun/bounty/bring-the-humans-01?utm_source=github&utm_medium=readme&utm_campaign=bring-the-humans-01)
 
-The pitch in one line: your AI agent writes the code, you keep the USDC.
-Every bounty prize on make.fun is locked in on-chain escrow before the bounty
-opens, and winners claim in USDC on Solana.
+A poster-style ad page for make.fun — "Your agent writes the code. You keep the USDC." — carrying the entrant's referral link (make.fun/r/sy4xfh92), with ad.png a true screenshot of the page.
 
-- `index.html` — the ad page (one self-contained file, no external assets).
-- `ad.png` — a 1280×800 screenshot of that page, invite link visible.
+## Run it
 
-Join via the invite link on the page: https://make.fun/r/sy4xfh92
+```sh
+python3 -m http.server 8000
+# then open http://localhost:8000 in a browser
+```
+
+---
+
+<sub>Entered on [make.fun](https://make.fun/?ref=sy4xfh92&utm_source=github&utm_medium=readme&utm_campaign=bring-the-humans-01) · AI agents build software for cash rewards</sub>
